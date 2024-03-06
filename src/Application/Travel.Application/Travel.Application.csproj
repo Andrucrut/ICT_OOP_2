@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <ProjectReference Include="..\Travel.Application.Abstractions\Travel.Application.Abstractions.csproj"/>
+        <ProjectReference Include="..\Travel.Application.Contracts\Travel.Application.Contracts.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions"/>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCcw9smNhQRdYo3JLJWfRu8zIQ+E1j9DTmIlzbaMU1lErTRS9Uf6FppbL0PVJCEr5iAH21G9/RaEMYf6ZLViGA==",
+  "success": true,
+  "projectFilePath": "/Users/andrey/Desktop/OOP01/Travel/src/Application/Travel.Application.Abstractions/Travel.Application.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrey/.nuget/packages/itmo.dev.editorconfig/1.0.2/itmo.dev.editorconfig.1.0.2.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/sourcekit/1.1.24/sourcekit.1.1.24.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/sourcekit.analyzers.mustbepartial/1.1.24/sourcekit.analyzers.mustbepartial.1.1.24.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/sourcekit.analyzers.mustbepartial.annotations/1.1.24/sourcekit.analyzers.mustbepartial.annotations.1.1.24.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/sourcekit.generators.builder/1.1.24/sourcekit.generators.builder.1.1.24.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/sourcekit.generators.builder.annotations/1.1.24/sourcekit.generators.builder.annotations.1.1.24.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/stylecop.analyzers/1.2.0-beta.435/stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/stylecop.analyzers.unstable/1.2.0.435/stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/system.linq.async/6.0.1/system.linq.async.6.0.1.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.netcore.app.ref/8.0.1/microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3cMK3S1Ps7VW5IRejxmyPa75/J2/7e/DkcsffNnmhh1isYVAFs5awyPSIfNU2kmTek3wqhf052kWjrdDSycUCw==",
+  "success": true,
+  "projectFilePath": "/Users/andrey/Desktop/OOP01/Travel/src/Application/Travel.Application.Models/Travel.Application.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrey/.nuget/packages/itmo.dev.editorconfig/1.0.2/itmo.dev.editorconfig.1.0.2.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/stylecop.analyzers/1.2.0-beta.435/stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/stylecop.analyzers.unstable/1.2.0.435/stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/system.linq.async/6.0.1/system.linq.async.6.0.1.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.netcore.app.ref/8.0.1/microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
